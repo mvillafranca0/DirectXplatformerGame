@@ -1,0 +1,5 @@
+﻿  game.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\finalProjMAV\finalProjMAV\game.cpp(237,13): warning C4101: 'result': unreferenced local variable
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\finalProjMAV\finalProjMAV\game.cpp(236,20): warning C4101: 'info': unreferenced local variable
+  finalProjMAV.vcxproj -> C:\Users\SikTe\OneDrive\Desktop\CPGameProg\finalProjMAV\Debug\finalProjMAV.exe
